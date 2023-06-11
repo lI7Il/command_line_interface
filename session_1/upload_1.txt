@@ -1,0 +1,12 @@
+1) We add the file:
+	$ git add --all
+
+2) We commit the file:
+	$ git commit
+
+3) We push the file:
+	$ git push -u -f origin main
+
+
+
+Note: Sorry I couldn't find my Assignment_1 folder :(
