@@ -1,0 +1,9 @@
+To navigate to the repo directory open git bash and type:
+	$ cd "<the repo path>"
+
+To clone repo open git bash and type:
+	$ git clone <url of the repo>
+
+To update git identity open git bash and type:
+	$ git config --global user.name "<your username>"
+
